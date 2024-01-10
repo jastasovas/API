@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+button {
+  width: 200px;
+  background-color: aquamarine;
+  border-radius: 5px;
+  border-style: dotted;
+}
+img {
+  width: 500px;
+
+  border: 5px solid olive;
+  border-radius: 20%;
+}
